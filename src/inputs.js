@@ -2,7 +2,6 @@
  * Created by Andrew on 03.05.2016.
  */
 var React = require('react');
-var Notifier = require('notifier');
 var Helpers = require('helpers');
 var NameInput = React.createClass({
     getInitialState: function () {
